@@ -1,6 +1,6 @@
 ### Hi, I'm Rafał
 C++ Developer working on 5G telecommunications technologies.\
-Working on mobile development in freetime.\
+Also passionate in improving mobile development skills in freetime.\
 ‎ 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72915573/220201410-d4fc9703-68c1-41cb-b95a-0928e9553d58.gif" alt="animated" width="400"/>
